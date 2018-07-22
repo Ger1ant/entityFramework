@@ -1,0 +1,12 @@
+C:\Users\ekber\Desktop\UDEMY\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\Udemy.EntityFramework_DataAnnotations\bin\Debug\Udemy.EntityFramework_DataAnnotations.exe.config
+C:\Users\ekber\Desktop\UDEMY\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\Udemy.EntityFramework_DataAnnotations\bin\Debug\Udemy.EntityFramework_DataAnnotations.exe
+C:\Users\ekber\Desktop\UDEMY\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\Udemy.EntityFramework_DataAnnotations\bin\Debug\Udemy.EntityFramework_DataAnnotations.pdb
+C:\Users\ekber\Desktop\UDEMY\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\Udemy.EntityFramework_DataAnnotations\bin\Debug\EntityFramework.dll
+C:\Users\ekber\Desktop\UDEMY\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\Udemy.EntityFramework_DataAnnotations\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ekber\Desktop\UDEMY\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\Udemy.EntityFramework_DataAnnotations\bin\Debug\EntityFramework.xml
+C:\Users\ekber\Desktop\UDEMY\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\Udemy.EntityFramework_DataAnnotations\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ekber\Desktop\UDEMY\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\Udemy.EntityFramework_DataAnnotations\obj\Debug\Udemy.EntityFramework_DataAnnotations.csprojAssemblyReference.cache
+C:\Users\ekber\Desktop\UDEMY\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\Udemy.EntityFramework_DataAnnotations\obj\Debug\Udemy.EntityFramework_DataAnnotations.csproj.CoreCompileInputs.cache
+C:\Users\ekber\Desktop\UDEMY\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\Udemy.EntityFramework_DataAnnotations\obj\Debug\Udemy.EntityFramework_DataAnnotations.csproj.CopyComplete
+C:\Users\ekber\Desktop\UDEMY\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\Udemy.EntityFramework_DataAnnotations\obj\Debug\Udemy.EntityFramework_DataAnnotations.exe
+C:\Users\ekber\Desktop\UDEMY\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\Udemy.EntityFramework_DataAnnotations\obj\Debug\Udemy.EntityFramework_DataAnnotations.pdb

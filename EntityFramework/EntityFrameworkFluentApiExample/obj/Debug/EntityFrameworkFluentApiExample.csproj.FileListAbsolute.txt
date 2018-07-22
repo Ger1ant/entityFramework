@@ -1,0 +1,12 @@
+C:\Users\ekber\Desktop\UDEMY\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\EntityFrameworkFluentApiExample\bin\Debug\EntityFrameworkFluentApiExample.exe.config
+C:\Users\ekber\Desktop\UDEMY\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\EntityFrameworkFluentApiExample\bin\Debug\EntityFrameworkFluentApiExample.exe
+C:\Users\ekber\Desktop\UDEMY\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\EntityFrameworkFluentApiExample\bin\Debug\EntityFrameworkFluentApiExample.pdb
+C:\Users\ekber\Desktop\UDEMY\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\EntityFrameworkFluentApiExample\bin\Debug\EntityFramework.dll
+C:\Users\ekber\Desktop\UDEMY\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\EntityFrameworkFluentApiExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ekber\Desktop\UDEMY\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\EntityFrameworkFluentApiExample\bin\Debug\EntityFramework.xml
+C:\Users\ekber\Desktop\UDEMY\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\EntityFrameworkFluentApiExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ekber\Desktop\UDEMY\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\EntityFrameworkFluentApiExample\obj\Debug\EntityFrameworkFluentApiExample.csprojAssemblyReference.cache
+C:\Users\ekber\Desktop\UDEMY\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\EntityFrameworkFluentApiExample\obj\Debug\EntityFrameworkFluentApiExample.csproj.CoreCompileInputs.cache
+C:\Users\ekber\Desktop\UDEMY\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\EntityFrameworkFluentApiExample\obj\Debug\EntityFrameworkFluentApiExample.csproj.CopyComplete
+C:\Users\ekber\Desktop\UDEMY\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\EntityFrameworkFluentApiExample\obj\Debug\EntityFrameworkFluentApiExample.exe
+C:\Users\ekber\Desktop\UDEMY\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\EntityFrameworkFluentApiExample\obj\Debug\EntityFrameworkFluentApiExample.pdb

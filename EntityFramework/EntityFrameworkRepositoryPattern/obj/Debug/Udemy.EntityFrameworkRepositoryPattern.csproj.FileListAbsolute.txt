@@ -1,0 +1,12 @@
+D:\UDEMY.NET\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\Udemy.EntityFrameworkRepositoryPattern\bin\Debug\Udemy.EntityFrameworkRepositoryPattern.exe.config
+D:\UDEMY.NET\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\Udemy.EntityFrameworkRepositoryPattern\bin\Debug\Udemy.EntityFrameworkRepositoryPattern.exe
+D:\UDEMY.NET\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\Udemy.EntityFrameworkRepositoryPattern\bin\Debug\Udemy.EntityFrameworkRepositoryPattern.pdb
+D:\UDEMY.NET\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\Udemy.EntityFrameworkRepositoryPattern\bin\Debug\EntityFramework.dll
+D:\UDEMY.NET\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\Udemy.EntityFrameworkRepositoryPattern\bin\Debug\EntityFramework.SqlServer.dll
+D:\UDEMY.NET\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\Udemy.EntityFrameworkRepositoryPattern\bin\Debug\EntityFramework.xml
+D:\UDEMY.NET\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\Udemy.EntityFrameworkRepositoryPattern\bin\Debug\EntityFramework.SqlServer.xml
+D:\UDEMY.NET\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\Udemy.EntityFrameworkRepositoryPattern\obj\Debug\Udemy.EntityFrameworkRepositoryPattern.csprojAssemblyReference.cache
+D:\UDEMY.NET\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\Udemy.EntityFrameworkRepositoryPattern\obj\Debug\Udemy.EntityFrameworkRepositoryPattern.csproj.CoreCompileInputs.cache
+D:\UDEMY.NET\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\Udemy.EntityFrameworkRepositoryPattern\obj\Debug\Udemy.EntityFrameworkRepositoryPattern.csproj.CopyComplete
+D:\UDEMY.NET\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\Udemy.EntityFrameworkRepositoryPattern\obj\Debug\Udemy.EntityFrameworkRepositoryPattern.exe
+D:\UDEMY.NET\2-C# ile VeriTabani Programlama\6-Entity Framework\Udemy_EF\Udemy.EntityFrameworkRepositoryPattern\obj\Debug\Udemy.EntityFrameworkRepositoryPattern.pdb
